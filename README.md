@@ -2,7 +2,8 @@
 
 <h1>Eu sou o Weslley , tenho 25 anos , sou programador Front-End,Atualmente estou cursando analise e desenvolvimento de sistemas na Universidade uninove, com o objetivo de aprimorar ainda mais meus conhecimentos e habilidades na área de tecnologia.</h1>
 <br>
-<h3>Atualmente estou criando projetos com as seguintes tecnologias: </h3>
+<h2>Atualmente estou criando projetos com as seguintes tecnologias: </h2>
+<br>
 
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt= "html-logo" />
