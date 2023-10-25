@@ -5,7 +5,7 @@
 
 <h1> Olá Mundo 👋</h1>
 
-<p>Eu sou o Weslley , tenho 25 anos , sou programador Front-End,Atualmente estou cursando analise e desenvolvimento de sistemas na Universidade uninove, com o objetivo de aprimorar ainda mais meus conhecimentos e habilidades na área de tecnologia. Estou cursando o Dev club também , aprimorando ainda mais minha habilidades com Html, Css, Javascrip, React, Node.js e Typescript. Atualmente estou fazendo trabalhos Freerlancers como paginas e landpages para clientes e estou em busca do meu primeiro emprego na aréa da programação! </p>
+<h3>Eu sou o Weslley , tenho 25 anos , sou programador Front-End,Atualmente estou cursando analise e desenvolvimento de sistemas na Universidade uninove, com o objetivo de aprimorar ainda mais meus conhecimentos e habilidades na área de tecnologia. Estou cursando o Dev club também , aprimorando ainda mais minha habilidades com Html, Css, Javascrip, React, Node.js e Typescript. Atualmente estou fazendo trabalhos Freerlancers como paginas e landpages para clientes e estou em busca do meu primeiro emprego na aréa da programação! </h3>
 <br>
 
 <h2>Atualmente estou criando projetos com as seguintes tecnologias: </h2>
@@ -31,9 +31,8 @@
 <br>
 
 
-
-[![Weslley stats](https://github-readme-stats.vercel.app/api?username=Weslley-silva23)](https://github.com/anuraghazra/github-readme-stats)                     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-silva23)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weslley-silva23&show_icons=true&theme=dark)                    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-silva23&show_icons=true&theme=dark)
 
 
 
