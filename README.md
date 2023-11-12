@@ -24,26 +24,18 @@
 <a href= "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
 <img align="left" alt "logo-email" widht="22px" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://wa.me/5511995069685">
+<img align="left" alt "logo-whatsapp" src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 </p>
 <br>
 <br>
+<h2>Estatística do Github</h2>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weslley-silva23&show_icons=true&theme=dark)                    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-silva23&show_icons=true&theme=dark)
-
-
-
-
-
-
-
-
-
-
-
 
 
 
