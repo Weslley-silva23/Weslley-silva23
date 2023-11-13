@@ -5,10 +5,10 @@
 
 <h1> Olá Mundo 👋</h1>
 
-<h3>Eu sou o Weslley , tenho 25 anos , sou programador Front-End,Atualmente estou cursando analise e desenvolvimento de sistemas na Universidade uninove, com o objetivo de aprimorar ainda mais meus conhecimentos e habilidades na área de tecnologia. Estou cursando o Dev club também , aprimorando ainda mais minha habilidades com Html, Css, Javascrip, React, Node.js e Typescript. Atualmente estou fazendo trabalhos Freerlancers como paginas e landpages para clientes e estou em busca do meu primeiro emprego na aréa da programação! </h3>
+<h3>Eu Sou o Weslley , Tenho 25 Anos , Sou Programador Front-End, Atualmente Estou Cursando Analíse e Desenvolvimento de Sistemas na Universidade Uninove, Com o Objetivo de Aprimorar Ainda Mais Meus Conhecimentos e Habilidades Na área de Tecnologia. Estou Cursando o Dev club também , Aprimorando Ainda Mais Minha Habilidades Com Html, Css, Javascript, React, Node.js e Typescript. Atualmente Estou Fazendo Trabalhos Freerlancers Como Paginas e Landpages Para Clientes e Estou em Busca do Meu Primeiro Emprego Na Aréa da Programação! </h3>
 <br>
 
-<h2>Atualmente estou criando projetos de landipages, sites e aplicativos com as seguintes tecnologias: </h2>
+<h2>Atualmente Estou Criando Projetos de Landipages, Sites e Aplicativos Com as Seguintes Tecnologias: </h2>
 
 <br>
 
