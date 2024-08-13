@@ -15,7 +15,7 @@ Minhas habilidades técnicas incluem linguagens como Html, Css, JavaScript, Fram
 ### 🌐 Conect With Me
 <br>
   
-<a href ="https://www.linkedin.com/in/weslley-silva-rocha-0740aa169/ ">
+<a href ="https://www.linkedin.com/in/weslley-silva-rocha-/ ">
 <img align="left" alt "logo-linkedin" widht="22px" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a/>
 <a href= "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
